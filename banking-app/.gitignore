@@ -35,4 +35,10 @@ build/
 # Secrets and eniroment files
 .env
 .env.*
+# Blocks .env files globally across all sub-folders
+**/.env
+**/.env.*
+
+
+
 
