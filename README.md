@@ -1,4 +1,4 @@
-# ACME Core Banking Console
+# Core Banking Console
 
 High-Performance REST API Banking Backend Built with Spring Boot 3.x & Hibernate 6
 
